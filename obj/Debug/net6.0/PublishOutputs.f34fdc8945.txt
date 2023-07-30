@@ -1,0 +1,7 @@
+Z:\azure\ncdemo\ncdemo0604\bin\Debug\net6.0\publish\ncdemo0604.exe
+Z:\azure\ncdemo\ncdemo0604\bin\Debug\net6.0\publish\appsettings.Development.json
+Z:\azure\ncdemo\ncdemo0604\bin\Debug\net6.0\publish\appsettings.json
+Z:\azure\ncdemo\ncdemo0604\bin\Debug\net6.0\publish\ncdemo0604.dll
+Z:\azure\ncdemo\ncdemo0604\bin\Debug\net6.0\publish\ncdemo0604.deps.json
+Z:\azure\ncdemo\ncdemo0604\bin\Debug\net6.0\publish\ncdemo0604.runtimeconfig.json
+Z:\azure\ncdemo\ncdemo0604\bin\Debug\net6.0\publish\ncdemo0604.pdb
